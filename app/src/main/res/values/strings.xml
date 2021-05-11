@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercício8</string>
+    <string name="insira_o_percentual_de_imposto">Insira o Percentual de imposto</string>
+    <string name="insira_o_percentual_de_lucro">Insira o Percentual de lucro</string>
+    <string name="insira_o_pre_o_de_fabrica_do_veiculo">Insira o Preço de fabrica do Veiculo</string>
+</resources>
